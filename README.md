@@ -8,5 +8,10 @@ Projetos em PHP realizados durante o curso do Curso em Video.
 
 [https://www.cursoemvideo.com](https://www.cursoemvideo.com)
 
+## Recursos utilizados
+
+- EasyPHP
+- PHPStorm
+
 ### Assista ao vídeo do curso:
 [![Curso de PHP](http://img.youtube.com/vi/F7KzJ7e6EAc/0.jpg)](http://www.youtube.com/watch?v=F7KzJ7e6EAc "Curso em Video.")
